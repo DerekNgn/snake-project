@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+#gameArea {
+    display: block;
+    border-style: solid;
+    border-width: 4px;
+    border-color: greenyellow;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+h1, h2 {
+    color: greenyellow;
+    text-align: center;
+    margin-top: 40px;
+}
